@@ -446,12 +446,11 @@ weibo.com
 weiyun.com
 whu.edu.cn
 wifibanlv.com
-wikipedia.org
 wmxa.cn
 wo.cn
 wps.cn
-www.gov.cn
-www.kanshu.la
+gov.cn
+kanshu.la
 xcar.com.cn
 xiachufang.com
 xiami.com
