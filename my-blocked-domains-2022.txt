@@ -4,6 +4,24 @@
 # ===============
 rr1---sn-uxgg5-852z.googlevideo.com
 suggestqueries-clients6.youtube.com
+creativecdn.com
+ad.doubleclick.net
+adservice.google.com
+adservices.google.com
+cm.g.doubleclick.net
+creativecdn.com
+csi.gstatic.com
+doubleclick.net
+eligibility-panelresearch.googlevideo.com
+googleads.g.doubleclick.net
+googleadservices.com
+googlesyndication.com
+manifest.googlevideo.com
+pagead2.googlesyndication.com
+partner.googleadservices.com
+pubads.g.doubleclick.net
+redirector.googlevideo.com
+tpc.googlesyndication.com
 #
 # ===============
 # Adobe Update
