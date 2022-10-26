@@ -86,6 +86,8 @@ yumenetworks.com
 ajax.googleapis.com
 app-us1.com
 chimpstatic.com
+cdn.stamped.io
+cdn1.stamped.io
 codeblackbelt.com
 dttrk.com
 enormapps.com
@@ -93,13 +95,18 @@ fontawesome.com
 goldendev.win
 googletagmanager.com
 hotjar.com
+instafeed.nfcube.com
 jsdelivr.net
 klaviyo.com
 loox.io
 luckyorange.com
 manychat.com
+personalization-wp-service.cluster.app-us1.com
+prism.app-us1.com
 nfcube.com
+settings-api.superlemon.xyz
 stamped.io
+static.klaviyo.com
 superlemon.xyz
 trackcmp.net
 #
