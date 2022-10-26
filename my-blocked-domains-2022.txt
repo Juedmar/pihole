@@ -1,0 +1,113 @@
+#
+# ===============
+# Youtube / Crappy Adds
+# ===============
+rr1---sn-uxgg5-852z.googlevideo.com
+suggestqueries-clients6.youtube.com
+#
+# ===============
+# Adobe Update
+# ===============
+adobe.com
+adobe.de
+adobe.io
+activate.adobe.com
+practivate.adobe.com
+ereg.adobe.com
+wip3.adobe.com
+activate.wip3.adobe.com
+3dns-3.adobe.com
+3dns-2.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+ereg.wip3.adobe.com
+activate-sea.adobe.com
+wwis-dubc1-vip60.adobe.com
+activate-sjc0.adobe.com
+hl2rcv.adobe.com
+lm.licenses.adobe.com
+na2m-pr.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+lm.licenses.adobe.com
+na1r.services.adobe.com
+hlrcv.stage.adobe.com
+practivate.adobe.com
+activate.adobe.com
+#
+# ===============
+# Microsoft / Edge
+# ===============
+bing.com
+config.edge.skype.com
+edge.microsoft.com
+onenote.net
+msedge.net
+virtualearth.net
+#
+# ===============
+# LGTV Smart TV
+# ===============
+cjpowercast.com
+edgesuite.net
+lge.com
+lgappstv.com
+lgsmartad.com
+lgtvsdp.com
+smartclip.com
+smartclip.net
+srv.giraffic.com
+vcfd1.giraffic.net
+yumenetworks.com
+#
+# ===============
+# BikeSport.cl
+# ===============
+# shopify.com
+# shopifysvc.com
+ajax.googleapis.com
+app-us1.com
+chimpstatic.com
+codeblackbelt.com
+dttrk.com
+enormapps.com
+fontawesome.com
+goldendev.win
+googletagmanager.com
+hotjar.com
+jsdelivr.net
+klaviyo.com
+loox.io
+luckyorange.com
+manychat.com
+nfcube.com
+stamped.io
+superlemon.xyz
+trackcmp.net
+#
+# ===============
+# MotoMundi.cl
+# ===============
+cloudflare.com
+cloudflareinsights.com
+firebase.googleapis.com
+googletagmanager.com
+gstatic.com
+livechatinc.com
+#
+# ===============
+# Samsung S6:
+# ===============
+chillyroom.com
+#
+# ===============
+# Other:
+# ===============
+avast.com
+aliapp.org
+app-us1.com
+klei.com
+line.me
+livechatinc.com
+sentry.io
+#
