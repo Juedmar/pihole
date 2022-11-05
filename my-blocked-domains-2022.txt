@@ -60,6 +60,7 @@ edge.microsoft.com
 onenote.net
 msedge.net
 virtualearth.net
+www.bing.com
 #
 # ===============
 # LGTV Smart TV
