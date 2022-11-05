@@ -11,6 +11,7 @@ discordapp.net
 datarouter.ol.epicgames.com
 epicgames.com
 epicgames.dev
+images-ext-2.discordapp.net
 gateway-us-east1-b.discord.gg
 roblox.com
 steam.com
