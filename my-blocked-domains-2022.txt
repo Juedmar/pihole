@@ -38,6 +38,7 @@ adobe-dns.adobe.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 activate-sjc0.adobe.com
+armmf.adobe.com
 ereg.adobe.com
 ereg.wip3.adobe.com
 hl2rcv.adobe.com
@@ -133,6 +134,7 @@ js.stripe.com
 gllto.glpals.com
 m.stripe.com
 m.stripe.network
+bcmls2.glpals.com
 meet.jit.si
 paypal.com
 paypalobjects.com
