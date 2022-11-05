@@ -44,7 +44,6 @@ hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
-lm.licenses.adobe.com
 na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
 p13n.adobe.io
