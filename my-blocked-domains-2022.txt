@@ -133,9 +133,9 @@ Samsung S8:
 c.superprof.com
 js.stripe.com
 gllto.glpals.com
+glpals.com
 m.stripe.com
 m.stripe.network
-bcmls2.glpals.com
 meet.jit.si
 paypal.com
 paypalobjects.com
