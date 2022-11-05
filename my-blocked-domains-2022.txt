@@ -125,6 +125,18 @@ livechatinc.com
 chillyroom.com
 #
 # ===============
+Samsung S8:
+# ===============
+c.superprof.com
+js.stripe.com
+m.stripe.com
+m.stripe.network
+meet.jit.si
+paypal.com
+paypalobjects.com
+t.paypal.com
+stripe.com
+# ===============
 # Other:
 # ===============
 avast.com
