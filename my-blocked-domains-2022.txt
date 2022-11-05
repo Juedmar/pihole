@@ -130,6 +130,7 @@ Samsung S8:
 # ===============
 c.superprof.com
 js.stripe.com
+gllto.glpals.com
 m.stripe.com
 m.stripe.network
 meet.jit.si
