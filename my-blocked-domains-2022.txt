@@ -144,10 +144,17 @@ stripe.com
 # Other:
 # ===============
 avast.com
+avcdn.net
 aliapp.org
 app-us1.com
+ccleaner.tools.avcdn.net
+cs9.wac.phicdn.net
+ecn.dev.virtualearth.net
+emupdate.avcdn.net
 klei.com
 line.me
 livechatinc.com
+phicdn.net
 sentry.io
+virtualearth.net
 #
