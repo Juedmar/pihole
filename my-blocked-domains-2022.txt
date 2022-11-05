@@ -141,6 +141,10 @@ paypal.com
 paypalobjects.com
 t.paypal.com
 stripe.com
+superprof.cl
+superprof.com
+www.superprof.cl
+www.superprof.com
 # ===============
 # Other:
 # ===============
