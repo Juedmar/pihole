@@ -1,4 +1,5 @@
 #
+a1887.dscq.akamai.net
 akamaihd.net
 akamaized.net
 avatars.cloudflare.steamstatic.com
