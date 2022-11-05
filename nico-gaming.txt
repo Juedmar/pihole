@@ -13,6 +13,7 @@ epicgames.com
 epicgames.dev
 images-ext-2.discordapp.net
 gateway-us-east1-b.discord.gg
+media.discordapp.net
 roblox.com
 steam.com
 steam-chat.com
