@@ -67,6 +67,7 @@ www.bing.com
 # LGTV Smart TV
 # ===============
 cjpowercast.com
+cl.lgtvsdp.com
 edgesuite.net
 lge.com
 lgappstv.com
