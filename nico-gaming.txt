@@ -37,11 +37,13 @@ catalog-public-service-prod.ak.epicgames.com
 clientsettingscdn.roblox.com
 clientsettingscdn.roblox.qq.com
 connect.epicgames.dev
+css.rbxcdn.com
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 ext2-lim1.steamserver.net
 gateway.discord.gg
 ipv6check-http.steamserver.net
+js.rbxcdn.com
 launcher-public-service-prod.ak.epicgames.com
 setup-ak.rbxcdn.com
 setup-cfly.rbxcdn.com
