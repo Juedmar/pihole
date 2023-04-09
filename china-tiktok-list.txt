@@ -500,3 +500,20 @@ zongheng.com
 zuoche.com
 zxxk.com
 zybang.com
+# =====
+# NEW TIKTOK:
+tiktok.com
+tiktokcdn.com
+ibytedtos.com
+ttwstatic.com
+www.tiktok.com
+mssdk-va.tiktok.com
+webcast.tiktok.com
+v16-webapp-prime.tiktok.com
+sf16-sg.tiktokcdn.com
+s20.tiktokcdn.com
+p16-sign-va.tiktokcdn.com
+lf16-tiktok-common.ibytedtos.com
+p16-amd-va.tiktokcdn.com
+lf16-tiktok-web.ttwstatic.com
+lf16-tiktok-common.ttwstatic.com
