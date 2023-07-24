@@ -93,3 +93,11 @@ wolframalpha.com
 xboxab.com
 xboxlive.com
 xmpp-service-prod.ol.epicgames.com
+# NEW - July, 2023
+discord.gg
+unistream.io
+discord.media
+data.unistream.io
+santiago9828.discord.media
+gateway-us-east1-c.discord.gg
+client-update.akamai.steamstatic.com
