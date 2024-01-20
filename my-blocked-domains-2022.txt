@@ -2,26 +2,46 @@
 # ===============
 # Youtube / Crappy Adds
 # ===============
-rr1---sn-uxgg5-852z.googlevideo.com
-suggestqueries-clients6.youtube.com
+# rr1---sn-uxgg5-852z.googlevideo.com
 creativecdn.com
-ad.doubleclick.net
-adservice.google.com
-adservices.google.com
 cm.g.doubleclick.net
 creativecdn.com
 csi.gstatic.com
 doubleclick.net
 eligibility-panelresearch.googlevideo.com
+manifest.googlevideo.com
+redirector.googlevideo.com
+suggestqueries-clients6.youtube.com
+# youtube.googleapis.com #Whitelist
+#
+# ===============
+# GOOGLE ADDS
+# ===============
+ad.doubleclick.net
+adservice.google.com
+adservices.google.com
+firebase.googleapis.com
 googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
-manifest.googlevideo.com
+googletagmanager.com #Bikesport.cl
+gstatic.com
 pagead2.googlesyndication.com
 partner.googleadservices.com
 pubads.g.doubleclick.net
-redirector.googlevideo.com
 tpc.googlesyndication.com
+#
+# ===============
+# GOOGLE STUFF
+# ===============
+drive-thirdparty.googleusercontent.com
+# mail-attachment.googleusercontent.com# Whitelist
+#
+# ===============
+# NETFLIX
+# ===============
+# nrdp.nccp.netflix.com #Whitelist
+# ichnaea.netflix.com #Whitelist
 #
 # ===============
 # Adobe Update
@@ -56,10 +76,12 @@ wwis-dubc1-vip60.adobe.com
 # Microsoft / Edge
 # ===============
 bing.com
+cdn.onenote.net
 config.edge.skype.com
 edge.microsoft.com
-onenote.net
 msedge.net
+onenote.net
+ping-edge.smartscreen.microsoft.com
 virtualearth.net
 www.bing.com
 #
@@ -87,15 +109,14 @@ yumenetworks.com
 # shopifysvc.com
 ajax.googleapis.com
 app-us1.com
-chimpstatic.com
+# chimpstatic.com
 cdn.stamped.io
 cdn1.stamped.io
 codeblackbelt.com
 dttrk.com
 enormapps.com
-fontawesome.com
+# fontawesome.com
 goldendev.win
-googletagmanager.com
 hotjar.com
 instafeed.nfcube.com
 jsdelivr.net
@@ -115,22 +136,38 @@ trackcmp.net
 # ===============
 # MotoMundi.cl
 # ===============
-cloudflare.com
-cloudflareinsights.com
-firebase.googleapis.com
-googletagmanager.com
-gstatic.com
+# cloudflare.com
+# cloudflareinsights.com
 livechatinc.com
+#
+# ===============
+# SAMSUNG STORE & STUFF
+# ===============
+api.samsungcloud.com
+api.mop.apps.samsung.com
+cl-odc.samsungapps.com
+ers.samsungcloud.com
+hp-ir.glb.samsungmilkradio.com
+img.samsungapps.com
+play.samsungcloud.com
+resource.samsungcloud.com
+sdk.pushmessage.samsung.com
+samsungnewsapi.picks.my
+terms.samsungconsent.com
+us-auth2.samsungosp.com
+vas.samsungapps.com
 #
 # ===============
 # Samsung S6:
 # ===============
 chillyroom.com
+inbox.brawlstars.com # NEW
 #
 # ===============
 Samsung S8:
 # ===============
 c.superprof.com
+bcmls2.glpals.com
 js.stripe.com
 gllto.glpals.com
 glpals.com
@@ -145,21 +182,48 @@ superprof.cl
 superprof.com
 www.superprof.cl
 www.superprof.com
+#
 # ===============
-# Other:
+# Other / Adds:
 # ===============
-avast.com
-avcdn.net
-aliapp.org
+api.taboolanews.com
 app-us1.com
-ccleaner.tools.avcdn.net
-cs9.wac.phicdn.net
+aliapp.org
+bcmls2.glpals.com
+cs9.wac.phicdn.nets
 ecn.dev.virtualearth.net
-emupdate.avcdn.net
+gos-api.gos-gsp.io
+inbox.brawlstars.com
 klei.com
 line.me
 livechatinc.com
+lookup.appgenradio.com
 phicdn.net
+o352714.ingest.sentry.io
 sentry.io
+tnc16-alisg.byteoversea.com
+trt-analytics.infra-moonactive.net
 virtualearth.net
+#
+# ===============
+# AVAST:
+# ===============
+avast.com
+avcdn.net
+analytics.ff.avast.com# NEW
+ccleaner.tools.avcdn.net
+emupdate.avcdn.net
+ip-info.ff.avast.com# NEW
+ncc.avast.com# NEW
+#
+# ===============
+# ANTIVURUS
+# ===============
+appcloud.mcafee.com
+#
+# ===============
+# GAMING
+# ===============
+service.game-mode.net
+catalog.gamepass.com
 #
