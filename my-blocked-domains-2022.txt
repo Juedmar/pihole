@@ -48,6 +48,7 @@ drive-thirdparty.googleusercontent.com
 # ===============
 3dns-2.adobe.com
 3dns-3.adobe.com
+acroipm2.adobe.com # NEW
 activate-sea.adobe.com
 activate.adobe.com
 activate.wip3.adobe.com
@@ -210,11 +211,11 @@ virtualearth.net
 # ===============
 avast.com
 avcdn.net
-analytics.ff.avast.com# NEW
+analytics.ff.avast.com # NEW
 ccleaner.tools.avcdn.net
 emupdate.avcdn.net
-ip-info.ff.avast.com# NEW
-ncc.avast.com# NEW
+ip-info.ff.avast.com # NEW
+ncc.avast.com # NEW
 #
 # ===============
 # ANTIVURUS
