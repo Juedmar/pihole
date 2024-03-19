@@ -83,6 +83,7 @@ edge.microsoft.com
 msedge.net
 onenote.net
 ping-edge.smartscreen.microsoft.com
+res.cdn.office.net # NEW
 virtualearth.net
 www.bing.com
 #
