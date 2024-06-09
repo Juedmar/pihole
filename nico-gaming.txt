@@ -93,6 +93,7 @@ wolframalpha.com
 xboxab.com
 xboxlive.com
 xmpp-service-prod.ol.epicgames.com
+#
 # NEW - July, 2023
 discord.gg
 unistream.io
@@ -101,3 +102,13 @@ data.unistream.io
 santiago9828.discord.media
 gateway-us-east1-c.discord.gg
 client-update.akamai.steamstatic.com
+#
+# New - June, 2024
+discord.com
+ecsv2.roblox.com
+inventory.roblox.com
+status.discord.com
+twitch.tv
+www.twitch.tv
+www.xboxab.com
+xboxab.com
