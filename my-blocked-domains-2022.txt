@@ -11,7 +11,7 @@ doubleclick.net
 eligibility-panelresearch.googlevideo.com
 manifest.googlevideo.com
 redirector.googlevideo.com
-suggestqueries-clients6.youtube.com
+# suggestqueries-clients6.youtube.com #Whitelist
 # youtube.googleapis.com #Whitelist
 #
 # ===============
