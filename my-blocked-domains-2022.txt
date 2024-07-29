@@ -8,10 +8,10 @@ cm.g.doubleclick.net
 creativecdn.com
 csi.gstatic.com
 doubleclick.net
-eligibility-panelresearch.googlevideo.com
-manifest.googlevideo.com
-redirector.googlevideo.com
-# suggestqueries-clients6.youtube.com #Whitelist
+# eligibility-panelresearch.googlevideo.com
+# manifest.googlevideo.com
+# redirector.googlevideo.com
+# suggestqueries-clients6.youtube.com  #Whitelist
 # youtube.googleapis.com #Whitelist
 #
 # ===============
@@ -111,7 +111,7 @@ yumenetworks.com
 # ===============
 # shopify.com
 # shopifysvc.com
-ajax.googleapis.com
+# ajax.googleapis.com #Whitelist
 app-us1.com
 # chimpstatic.com
 cdn.stamped.io
@@ -178,9 +178,9 @@ glpals.com
 m.stripe.com
 m.stripe.network
 meet.jit.si
-paypal.com
-paypalobjects.com
-t.paypal.com
+# paypal.com #Whitelist
+# paypalobjects.com #Whitelist
+# t.paypal.com #Whitelist
 stripe.com
 superprof.cl
 superprof.com
@@ -229,5 +229,5 @@ appcloud.mcafee.com
 # GAMING
 # ===============
 service.game-mode.net
-catalog.gamepass.com
+# catalog.gamepass.com #Whitelist
 #
