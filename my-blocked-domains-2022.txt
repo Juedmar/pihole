@@ -1,8 +1,7 @@
 #
 # UPDATED DEC. 31st, 2024
 # Moved Google stuff to separete list! 
-#
-===============
+# ===============
 # Youtube / Crappy Adds
 # ===============
 # rr1---sn-uxgg5-852z.googlevideo.com
@@ -148,7 +147,7 @@ chillyroom.com
 inbox.brawlstars.com # NEW
 #
 # ===============
-Samsung S8:
+# Samsung S8:
 # ===============
 c.superprof.com
 bcmls2.glpals.com
