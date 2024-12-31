@@ -287,7 +287,7 @@ instantmessaging-pa-jms-us.googleapis.com
 instantmessaging-pa-us.googleapis.com
 integrations.googleapis.com
 invoice.googleapis.com
-jnn-pa.googleapis.com
+# jnn-pa.googleapis.com # AFFECTS YOUTUBE PLAYBACK, MAYBE!
 jobs.googleapis.com
 khm.googleapis.com
 khm0.googleapis.com
