@@ -12,7 +12,7 @@ googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
 googletagmanager.com #Bikesport.cl
-gstatic.com
+# gstatic.com # BREAKING GOOGLE CLASSROOM!
 pagead2.googlesyndication.com
 partner.googleadservices.com
 pubads.g.doubleclick.net
