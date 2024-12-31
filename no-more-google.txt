@@ -173,7 +173,6 @@ content-firebaseappcheck.googleapis.com
 content-mybusinesslodging.googleapis.com
 content-partnersbadge-pa.googleapis.com
 contentwarehouse.googleapis.com
-cookiepro.commicrosoft.com/es-es/microsoft-365/outlookadmin.googleapis.com
 copresence.googleapis.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -408,7 +407,6 @@ sheets.googleapis.com
 shoppingcontent.googleapis.com
 smartdevicemanagement.googleapis.com
 speech.googleapis.com
-speechs3proto*-pa.googleapis.com
 ssl.googleanalytics.com
 ssl.google-analytics.com
 stackdriver.googleapis.com
