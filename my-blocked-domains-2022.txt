@@ -1,5 +1,8 @@
 #
-# ===============
+# UPDATED DEC. 31st, 2024
+# Moved Google stuff to separete list! 
+#
+===============
 # Youtube / Crappy Adds
 # ===============
 # rr1---sn-uxgg5-852z.googlevideo.com
@@ -13,29 +16,6 @@ doubleclick.net
 # redirector.googlevideo.com
 # suggestqueries-clients6.youtube.com  #Whitelist
 # youtube.googleapis.com #Whitelist
-#
-# ===============
-# GOOGLE ADDS
-# ===============
-ad.doubleclick.net
-adservice.google.com
-adservices.google.com
-firebase.googleapis.com
-googleads.g.doubleclick.net
-googleadservices.com
-googlesyndication.com
-googletagmanager.com #Bikesport.cl
-gstatic.com
-pagead2.googlesyndication.com
-partner.googleadservices.com
-pubads.g.doubleclick.net
-tpc.googlesyndication.com
-#
-# ===============
-# GOOGLE STUFF
-# ===============
-drive-thirdparty.googleusercontent.com
-# mail-attachment.googleusercontent.com# Whitelist
 #
 # ===============
 # NETFLIX
