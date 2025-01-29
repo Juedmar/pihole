@@ -202,6 +202,7 @@ gmw.cn
 go007.com
 gome.com.cn
 google.cn
+gov.cn
 gsxt.gov.cn
 guancha.cn
 guazi.com
@@ -266,6 +267,7 @@ jzb.com
 kafan.cn
 kaixin001.com
 kankan.com
+kanshu.la
 kanzhun.com
 kaola.com
 klei.com
@@ -323,7 +325,7 @@ musical.ly
 mydigit.cn
 mydrivers.com
 navercorp.com
-neea.edu.cn
+edu.cn
 netease.com
 news18a.com
 newsmth.net
@@ -449,8 +451,6 @@ wifibanlv.com
 wmxa.cn
 wo.cn
 wps.cn
-gov.cn
-kanshu.la
 xcar.com.cn
 xiachufang.com
 xiami.com
@@ -467,7 +467,7 @@ xuexila.com
 xunjiepdf.com
 xunlei.com
 xywy.com
-yangzhou.gov.cn
+gov.cn
 yesky.com
 yinyuetai.com
 yixun.com
@@ -517,3 +517,8 @@ lf16-tiktok-common.ibytedtos.com
 p16-amd-va.tiktokcdn.com
 lf16-tiktok-web.ttwstatic.com
 lf16-tiktok-common.ttwstatic.com
+# MORE NEW
+byteoversea.com
+tnc16-alisg.byteoversea.com
+# NEW 2025 (DEEPSEEK)
+deepseek.com
