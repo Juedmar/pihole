@@ -1,6 +1,7 @@
 #
 # UPDATED DEC. 31st, 2024
 # Moved Google stuff to separete list! 
+#
 # ===============
 # Youtube / Crappy Adds
 # ===============
@@ -56,17 +57,17 @@ wwis-dubc1-vip60.adobe.com
 # Microsoft / Edge
 # ===============
 bing.com
-browser.events.data.microsoft.com  # NEW
-cdn.onenote.net
+www.bing.com
 config.edge.skype.com
 edge.microsoft.com
-exo.nel.measure.office.net # NEW
 msedge.net
-onenote.net
 ping-edge.smartscreen.microsoft.com
-res.cdn.office.net # NEW
-virtualearth.net
-www.bing.com
+# exo.nel.measure.office.net # NEW
+# browser.events.data.microsoft.com  # NEW
+# cdn.onenote.net
+# onenote.net
+# res.cdn.office.net # NEW
+# virtualearth.net
 #
 # ===============
 # LGTV Smart TV
