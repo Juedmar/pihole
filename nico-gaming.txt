@@ -115,25 +115,44 @@ xboxab.com
 # Newer - Also June, 2024
 userpresence.xboxlive.com
 #
-# New - May 6th, 2025
+# New - May 10th, 2025
+api.minecraftservices.com
+blamejared.com
 catalog.gamepass.com
+chocolateminecraft.com
 cl.pinterest.com
 cmp2-lax1.steamserver.net
 ephemeralcounters.api.roblox.com
 figura.moonlight-devs.org
+files.minecraftforge.net
 gtrack.kueezrtb.com
 images-ext-1.discordapp.net
 kueezrtb.com
 launcher-files.modrinth.com
 launcher-public-service-prod06.ol.epicgames.com
+minecraft.net
+minecraftabnormals.com
+minecraftforge.net
+minecraftservices.com
+moddinglegacy.com
 modrinth.com
+mojang.com
 moonlight-devs.org
+mrcrayfish.com
+ol.epicgames.com
 p2p-eze1.discovery.steamserver.net
 p2p-scl1.discovery.steamserver.net
+pc.realms.minecraft.net
 pinterest.com
 presence-public-service-prod.ol.epicgames.com
-ol.epicgames.com
+privacy.xboxlive.com
+sessionserver.mojang.com
 sc2.rbxcdn.com
+static.kueezrtb.com
+steampowered.com
+store.steampowered.com
 t6.rbxcdn.com
 tracing.roblox.com
 track.kueezrtb.com
+updates.blamejared.com
+xboxlive.com
