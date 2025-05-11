@@ -112,3 +112,28 @@ twitch.tv
 www.twitch.tv
 www.xboxab.com
 xboxab.com
+# Newer - Also June, 2024
+userpresence.xboxlive.com
+#
+# New - May 6th, 2025
+catalog.gamepass.com
+cl.pinterest.com
+cmp2-lax1.steamserver.net
+ephemeralcounters.api.roblox.com
+figura.moonlight-devs.org
+gtrack.kueezrtb.com
+images-ext-1.discordapp.net
+kueezrtb.com
+launcher-files.modrinth.com
+launcher-public-service-prod06.ol.epicgames.com
+modrinth.com
+moonlight-devs.org
+p2p-eze1.discovery.steamserver.net
+p2p-scl1.discovery.steamserver.net
+pinterest.com
+presence-public-service-prod.ol.epicgames.com
+ol.epicgames.com
+sc2.rbxcdn.com
+t6.rbxcdn.com
+tracing.roblox.com
+track.kueezrtb.com
