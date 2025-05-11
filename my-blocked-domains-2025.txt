@@ -188,6 +188,16 @@ sentry.io
 tnc16-alisg.byteoversea.com
 trt-analytics.infra-moonactive.net
 virtualearth.net
+# ===============
+# More detected stuff - May, 2025:
+# ===============
+api.sprig.com
+c.deadlinefunnel.com
+consent.cookiebot.com
+deadlinefunnel.com
+perfect-english-grammar.ck.page
+perfect-english-grammar.kit.com
+www.perfect-english-grammar.com
 #
 # ===============
 # AVAST:
