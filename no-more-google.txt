@@ -390,7 +390,7 @@ sandbox.google-analytics.com
 save-pa.googleapis.com
 scone-pa.googleapis.com
 # script.google.com
-script.googleapis.com
+# script.googleapis.com
 searchads360.googleapis.com
 searchconsole.googleapis.com
 searchlabspartnerservice-pa.googleapis.com
