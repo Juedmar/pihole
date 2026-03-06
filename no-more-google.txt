@@ -11,7 +11,7 @@ firebase.googleapis.com
 googleads.g.doubleclick.net
 googleadservices.com
 googlesyndication.com
-googletagmanager.com #Bikesport.cl
+googletagmanager.com
 # gstatic.com # BREAKING GOOGLE CLASSROOM!
 pagead2.googlesyndication.com
 partner.googleadservices.com
@@ -341,7 +341,7 @@ ns1.googleapis.com
 offlinepages-pa.googleapis.com
 opensourcelive.withgoogle.com
 opsconfigmonitoring.googleapis.com
-optimizationguide-pa.googleapis.com
+# optimizationguide-pa.googleapis.com
 orgpolicy.googleapis.com
 osconfig.googleapis.com
 pagead2.googleadservices.com
