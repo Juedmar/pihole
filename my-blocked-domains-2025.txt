@@ -166,28 +166,6 @@ superprof.cl
 superprof.com
 www.superprof.cl
 www.superprof.com
-#
-# ===============
-# Other / Adds:
-# ===============
-api.taboolanews.com
-app-us1.com
-aliapp.org
-bcmls2.glpals.com
-cs9.wac.phicdn.nets
-ecn.dev.virtualearth.net
-gos-api.gos-gsp.io
-inbox.brawlstars.com
-klei.com
-line.me
-livechatinc.com
-lookup.appgenradio.com
-phicdn.net
-o352714.ingest.sentry.io
-sentry.io
-tnc16-alisg.byteoversea.com
-trt-analytics.infra-moonactive.net
-virtualearth.net
 # ===============
 # More detected stuff - May, 2025:
 # ===============
@@ -249,3 +227,61 @@ punchmedia.ru
 bidvol.com	
 adx.com.ru
 # ===============
+# Other / Adds:
+# ===============
+api.taboolanews.com
+app-us1.com
+aliapp.org
+bcmls2.glpals.com
+cs9.wac.phicdn.nets
+ecn.dev.virtualearth.net
+gos-api.gos-gsp.io
+inbox.brawlstars.com
+klei.com
+line.me
+livechatinc.com
+lookup.appgenradio.com
+phicdn.net
+o352714.ingest.sentry.io
+sentry.io
+tnc16-alisg.byteoversea.com
+trt-analytics.infra-moonactive.net
+virtualearth.net
+## ==========
+## New 2025! ##
+## ==========
+ad.doubleclick.net
+adblock.telemetry.eyeo.com
+allfile.me
+amdcopen.m.umeng.com
+ccs.umeng.com
+checkout.stripe.com
+cnlogs.umeng.com
+emojiterra.com
+errnewlog.umeng.com
+eskna.ucpjdhivl.com
+fuxok.nguvmqhpk.com
+geo2.adobe.com
+iotapi.abupdate.com
+iyut.xgw3sdzoac.com
+js.rev.iq
+launcher-files.modrinth.com
+mc.us1.list-manage.com
+mozmvr.xmqgphzwd.com
+net.rev.iq
+nxiqj.jgrqyxupl.com
+oslogs.umeng.com
+otrack.kueezrtb.com
+posthog.modrinth.com
+proc.ad.cpe.dotomi.com
+qyruaj.otsvlwfpa.com
+sessions.bugsnag.com
+smysqo.5nwv22q5.com
+sss.umeng.com
+tunnel.googlezip.net
+ucc.umeng.com
+utoken.umeng.com
+vgwbm.uwfyobivh.com
+ypbucl.xmqgphzwd.com
+yvhcn.hxjebagrv.com
+zxiws.tcgwhnvym.com
