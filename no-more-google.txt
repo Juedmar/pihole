@@ -22,7 +22,7 @@ tpc.googlesyndication.com
 # GOOGLE STUFF (Mail)
 # ===============
 drive-thirdparty.googleusercontent.com
-# mail-attachment.googleusercontent.com# Whitelist
+## mail-attachment.googleusercontent.com## Whitelist
 #
 # ===============
 # GOOGLE ANALYTICS
@@ -42,7 +42,6 @@ adexchangebuyer.googleapis.com
 adexchangebuyer-json.googleapis.com
 adexchangeseller.googleapis.com
 adgoogle.net
-admin.googleapis.com
 admob.googleapis.com
 adsdatahub.googleapis.com
 adsense.googleapis.com
@@ -389,8 +388,6 @@ safe-browsing.googleapis.com
 sandbox.google-analytics.com
 save-pa.googleapis.com
 scone-pa.googleapis.com
-# script.google.com
-# script.googleapis.com
 searchads360.googleapis.com
 searchconsole.googleapis.com
 searchlabspartnerservice-pa.googleapis.com
@@ -469,5 +466,8 @@ zerotouch.googleapis.com
 zerotouch.googleapis.comgsuiteaddons.googleapis.com
 zfgbxkotjxujhmpo.storage.googleapis.com
 # ===============
-# END OF LIST!
+# WHITELIST!
 # ===============
+## admin.googleapis.com## Whitelist
+## script.google.com## Whitelist
+## script.googleapis.com## Whitelist
