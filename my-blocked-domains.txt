@@ -1,0 +1,348 @@
+#
+# UPDATED DEC. 31st, 2024
+# Moved Google stuff to separete list! 
+#
+# ===============
+# Youtube / Crappy Adds
+# ===============
+# rr1---sn-uxgg5-852z.googlevideo.com
+creativecdn.com
+cm.g.doubleclick.net
+creativecdn.com
+csi.gstatic.com
+doubleclick.net
+# eligibility-panelresearch.googlevideo.com
+# manifest.googlevideo.com
+# redirector.googlevideo.com
+# suggestqueries-clients6.youtube.com  #Whitelist
+# youtube.googleapis.com #Whitelist
+#
+# ===============
+# NETFLIX
+# ===============
+# nrdp.nccp.netflix.com #Whitelist
+# ichnaea.netflix.com #Whitelist
+#
+# ===============
+# Adobe Update
+# ===============
+3dns-2.adobe.com
+3dns-3.adobe.com
+acroipm2.adobe.com # NEW
+activate-sea.adobe.com
+activate.adobe.com
+activate.wip3.adobe.com
+adobe.com
+adobe.de
+adobe.io
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+activate-sjc0.adobe.com
+armmf.adobe.com
+ereg.adobe.com
+ereg.wip3.adobe.com
+hl2rcv.adobe.com
+hlrcv.stage.adobe.com
+lm.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+na1r.services.adobe.com
+na2m-pr.licenses.adobe.com
+p13n.adobe.io
+practivate.adobe.com
+wip3.adobe.com
+wwis-dubc1-vip60.adobe.com
+#
+# ===============
+# Microsoft / Edge
+# ===============
+bing.com
+www.bing.com
+config.edge.skype.com
+edge.microsoft.com
+msedge.net
+ping-edge.smartscreen.microsoft.com
+# exo.nel.measure.office.net # NEW
+# browser.events.data.microsoft.com  # NEW
+# cdn.onenote.net
+# onenote.net
+# res.cdn.office.net # NEW
+# virtualearth.net
+#
+# ===============
+# LGTV Smart TV
+# ===============
+cjpowercast.com
+cl.lgtvsdp.com
+edgesuite.net
+lge.com
+lgappstv.com
+lgsmartad.com
+lgtvsdp.com
+smartclip.com
+smartclip.net
+srv.giraffic.com
+vcfd1.giraffic.net
+vcfd2.giraffic.net
+yumenetworks.com
+#
+# ===============
+# BikeSport.cl
+# ===============
+# shopify.com
+# shopifysvc.com
+# ajax.googleapis.com #Whitelist
+app-us1.com
+# chimpstatic.com
+cdn.stamped.io
+cdn1.stamped.io
+codeblackbelt.com
+dttrk.com
+enormapps.com
+# fontawesome.com
+goldendev.win
+hotjar.com
+instafeed.nfcube.com
+jsdelivr.net
+klaviyo.com
+loox.io
+luckyorange.com
+manychat.com
+personalization-wp-service.cluster.app-us1.com
+prism.app-us1.com
+nfcube.com
+settings-api.superlemon.xyz
+stamped.io
+static.klaviyo.com
+superlemon.xyz
+trackcmp.net
+#
+# ===============
+# MotoMundi.cl
+# ===============
+# cloudflare.com
+# cloudflareinsights.com
+livechatinc.com
+#
+# ===============
+# SAMSUNG STORE & STUFF
+# ===============
+api.samsungcloud.com
+api.mop.apps.samsung.com
+cl-odc.samsungapps.com
+ers.samsungcloud.com
+hp-ir.glb.samsungmilkradio.com
+img.samsungapps.com
+play.samsungcloud.com
+resource.samsungcloud.com
+sdk.pushmessage.samsung.com
+samsungnewsapi.picks.my
+terms.samsungconsent.com
+us-auth2.samsungosp.com
+vas.samsungapps.com
+#
+# ===============
+# Samsung S6:
+# ===============
+chillyroom.com
+inbox.brawlstars.com # NEW
+#
+# ===============
+# Samsung S8:
+# ===============
+c.superprof.com
+bcmls2.glpals.com
+js.stripe.com
+gllto.glpals.com
+glpals.com
+m.stripe.com
+m.stripe.network
+meet.jit.si
+# paypal.com #Whitelist
+# paypalobjects.com #Whitelist
+# t.paypal.com #Whitelist
+stripe.com
+superprof.cl
+superprof.com
+www.superprof.cl
+www.superprof.com
+# ===============
+# More detected stuff - May, 2025:
+# ===============
+api.prod.dbix.i.lego.com
+api.sprig.com
+bf08217ktv.bf.dynatrace.com
+c.deadlinefunnel.com
+capi.samsungcloud.com
+cdn.ampproject.org
+cobuild.services.lego.com
+consent.cookiebot.com
+deadlinefunnel.com
+global.cdn.survey.medallia.com
+ki6tf1-cdn-settings.appsflyersdk.com
+ledger.bt.co
+meta.wikimedia.org
+out053a3bejgh7t0phqa0csou.litix.io
+perfect-english-grammar.ck.page
+perfect-english-grammar.kit.com
+scout.services.lego.com
+www.perfect-english-grammar.com
+#
+# ===============
+# AVAST:
+# ===============
+avast.com
+avcdn.net
+analytics.ff.avast.com # NEW
+ccleaner.tools.avcdn.net
+emupdate.avcdn.net
+ip-info.ff.avast.com # NEW
+ncc.avast.com # NEW
+#
+# ===============
+# ANTIVURUS
+# ===============
+appcloud.mcafee.com
+#
+# ===============
+# GAMING
+# ===============
+service.game-mode.net
+# catalog.gamepass.com #Whitelist
+#
+# ===============
+# RUSSIA
+# ===============
+otclick-adv.ru
+redirect.frontend.weborama.fr
+skwstat.ru	
+vihub.ru	
+mts.ru	
+videonow.ru	
+rutarget.ru	
+adfinity.pro	
+suprion.ru	
+bumlam.com	
+punchmedia.ru
+bidvol.com	
+adx.com.ru
+# ===============
+# Other / Adds:
+# ===============
+api.taboolanews.com
+app-us1.com
+aliapp.org
+bcmls2.glpals.com
+cs9.wac.phicdn.nets
+ecn.dev.virtualearth.net
+gos-api.gos-gsp.io
+inbox.brawlstars.com
+klei.com
+line.me
+livechatinc.com
+lookup.appgenradio.com
+phicdn.net
+o352714.ingest.sentry.io
+sentry.io
+tnc16-alisg.byteoversea.com
+trt-analytics.infra-moonactive.net
+virtualearth.net
+## ==========
+## New 2025! ##
+## ==========
+ad.doubleclick.net
+adblock.telemetry.eyeo.com
+allfile.me
+amdcopen.m.umeng.com
+ccs.umeng.com
+checkout.stripe.com
+cnlogs.umeng.com
+emojiterra.com
+errnewlog.umeng.com
+eskna.ucpjdhivl.com
+fuxok.nguvmqhpk.com
+geo2.adobe.com
+iotapi.abupdate.com
+iyut.xgw3sdzoac.com
+js.rev.iq
+launcher-files.modrinth.com
+mc.us1.list-manage.com
+mozmvr.xmqgphzwd.com
+net.rev.iq
+nxiqj.jgrqyxupl.com
+oslogs.umeng.com
+otrack.kueezrtb.com
+posthog.modrinth.com
+proc.ad.cpe.dotomi.com
+qyruaj.otsvlwfpa.com
+sessions.bugsnag.com
+smysqo.5nwv22q5.com
+sss.umeng.com
+tunnel.googlezip.net
+ucc.umeng.com
+utoken.umeng.com
+vgwbm.uwfyobivh.com
+ypbucl.xmqgphzwd.com
+yvhcn.hxjebagrv.com
+zxiws.tcgwhnvym.com
+## ========== ##
+## New - SEPTEMBER, 2026! ##
+## ========== ##
+edge.aditude.io
+raven-static.aditude.io
+travelpayouts.com
+sentry.avs.io
+rockabillyrules.com
+emrldco.com
+ipv4.tracker.harry.lu
+9.rarbg.me
+thetracker.org
+tracker.pirateparty.gr
+tracker.ololosh.space
+tracker.justseed.it
+ipv6.tracker.harry.lu
+tracker.dump.cl
+tracker.tiny-vps.com
+retracker.lanta-net.ru
+tracker.bittor.pw
+tracker-udp.gbitt.info
+tracker.leechers-paradise.org
+_bittorrent-tracker._tcp.cl
+tracker.internetwarriors.net
+_bittorrent-tracker._tcp.fo.baf.movistar.cl
+tracker.port443.xyz
+leet-tracker.moe
+tracker.coppersurfer.tk
+tracker.istole.it
+retracker01-msk-virt.corbina.net
+tracker.dler.org
+tupperbox.app
+## ============ ##
+## FULL DOMAINS ##
+## ============ ##
+_tcp.cl
+aditude.io
+avs.io
+bittor.pw
+coppersurfer.tk
+dler.org
+dump.cl
+emrldco.com
+harry.lu
+istole.it
+internetwarriors.net
+justseed.it
+lanta-net.ru
+leechers-paradise.org
+leet-tracker.moe
+pirateparty.gr
+port443.xyz
+ololosh.space
+retracker01-msk-virt.corbina.net
+rarbg.me
+rockabillyrules.com
+tracker-udp.gbitt.info
+tiny-vps.com
+thetracker.org
+tupperbox.app
+travelpayouts.com
