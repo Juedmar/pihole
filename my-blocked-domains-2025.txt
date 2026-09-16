@@ -285,3 +285,64 @@ vgwbm.uwfyobivh.com
 ypbucl.xmqgphzwd.com
 yvhcn.hxjebagrv.com
 zxiws.tcgwhnvym.com
+## ========== ##
+## New - SEPTEMBER, 2026! ##
+## ========== ##
+edge.aditude.io
+raven-static.aditude.io
+travelpayouts.com
+sentry.avs.io
+rockabillyrules.com
+emrldco.com
+ipv4.tracker.harry.lu
+9.rarbg.me
+thetracker.org
+tracker.pirateparty.gr
+tracker.ololosh.space
+tracker.justseed.it
+ipv6.tracker.harry.lu
+tracker.dump.cl
+tracker.tiny-vps.com
+retracker.lanta-net.ru
+tracker.bittor.pw
+tracker-udp.gbitt.info
+tracker.leechers-paradise.org
+_bittorrent-tracker._tcp.cl
+tracker.internetwarriors.net
+_bittorrent-tracker._tcp.fo.baf.movistar.cl
+tracker.port443.xyz
+leet-tracker.moe
+tracker.coppersurfer.tk
+tracker.istole.it
+retracker01-msk-virt.corbina.net
+tracker.dler.org
+tupperbox.app
+## ============ ##
+## FULL DOMAINS ##
+## ============ ##
+_tcp.cl
+aditude.io
+avs.io
+bittor.pw
+coppersurfer.tk
+dler.org
+dump.cl
+emrldco.com
+harry.lu
+istole.it
+internetwarriors.net
+justseed.it
+lanta-net.ru
+leechers-paradise.org
+leet-tracker.moe
+pirateparty.gr
+port443.xyz
+ololosh.space
+retracker01-msk-virt.corbina.net
+rarbg.me
+rockabillyrules.com
+tracker-udp.gbitt.info
+tiny-vps.com
+thetracker.org
+tupperbox.app
+travelpayouts.com

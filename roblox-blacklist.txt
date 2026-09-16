@@ -54,6 +54,11 @@ tr.rbxcdn.com
 tracing.roblox.com
 track.kueezrtb.com
 voice.roblox.com
+## ==========
+## New 2026! ##
+## ==========
+games.roblox.com
+realtime-signalr.roblox.com
 #
 # END EL LIST/DATE!
 #
